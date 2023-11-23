@@ -20,4 +20,4 @@ Why is this analysis important?
 Limitations of the analysis?
 
 *Feedback from final project:*
-- Add other variables completed a multiple linear regression instead
+- Add other variables and conduct a multiple linear regression instead
